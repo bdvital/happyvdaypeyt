@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #ff4d4d;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    color: #fff;
+    font-size: 28px;
+  }
+  
+  .letter {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    margin-top: 20px;
+    font-style: italic;
+    color: #777;
+  }
+  
